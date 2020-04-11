@@ -1,0 +1,927 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tools>
+
+<FRPByPassAPK>
+  <FRPByPass>Apex_Launcher.apk</FRPByPass>
+  <FRPByPass>FRP_Bypass_Android(5,6,8,9,10).apk</FRPByPass>
+  <FRPByPass>FRP_Bypass_Android(7,9,10).apk</FRPByPass>
+</FRPByPassAPK>
+
+<RootPackges>
+<SuperSuTool>
+  <SuperSu>SuperSU-v2.82-SR5.zip</SuperSu>
+  <SuperSu>SuperSU-v2.82.zip</SuperSu>
+  <SuperSu>SuperSU-v2.79.zip</SuperSu>
+  <SuperSu>SuperSU-v2.46.zip</SuperSu>
+  <SuperSu>SuperSU-v2.82.apk</SuperSu>
+</SuperSuTool>
+<MagiskTool>
+  <Magisk>Magisk-v20.4.zip</Magisk>
+  <Magisk>MagiskManager-v7.5.1.apk</Magisk>
+</MagiskTool>
+</RootPackges>
+
+<SamSungTools>
+<Odin3>
+  <Odin_ver>Odin3_v3.14.4</Odin_ver>
+  <Odin_ver>Odin3_v3.14.1</Odin_ver>
+  <Odin_ver>Odin3_v3.13.3</Odin_ver>
+  <Odin_ver>Odin3_v3.13.1</Odin_ver>
+  <Odin_ver>Odin3_v3.12.7</Odin_ver>
+  <Odin_ver>Odin3_v3.12.5</Odin_ver>
+  <Odin_ver>Odin3_v3.12.4</Odin_ver>
+  <Odin_ver>Odin3_v3.12.3</Odin_ver>
+  <Odin_ver>Odin3_v3.11.2</Odin_ver>
+  <Odin_ver>Odin3_v3.11.1</Odin_ver>
+  <Odin_ver>Odin3_v3.10.7</Odin_ver>
+  <Odin_ver>Odin3_v3.10.6</Odin_ver>
+  <Odin_ver>Odin3_v3.10.5</Odin_ver>
+  <Odin_ver>Odin3_v3.09</Odin_ver>
+  <Odin_ver>Odin3_v3.07</Odin_ver>
+  <Odin_ver>Odin3_v3.06</Odin_ver>
+  <Odin_ver>Odin3_v3.04</Odin_ver>
+  <Odin_ver>Odin3_v1.86</Odin_ver>
+  <Odin_ver>Odin3_v1.83</Odin_ver>
+  <Odin_ver>Odin3_v1.82</Odin_ver>
+  <Odin_ver>Odin3_v1.70</Odin_ver>
+  </Odin3>
+<SamsungUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.7.23</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.7.17</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.7.11</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.65</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.63</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.61</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.60</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.59</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.55</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.51</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.49</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.45</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.33</SamUsbDriver>
+</SamsungUsbDriver>
+</SamSungTools>
+
+<MediaTeck_Tools> 
+
+<Agenew_FlashTool>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1912</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1848</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1804</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1728</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1620</AgenewFlashTool_Ver>
+</Agenew_FlashTool>
+<BirdA_FlashTool>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1620</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1524</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1512</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1452</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1432</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1428</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1408</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1348</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1336</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1316</BirdAFlashTool_Ver>
+</BirdA_FlashTool>
+<BirdA_MDT_Tool>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1620</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1524</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1512</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1452</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1432</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1428</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1408</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1348</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1336</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_Tool_v1316</BirdAMDT_Ver>
+</BirdA_MDT_Tool>
+<SP_Flash_Tool>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1952</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1944</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1936</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1924</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1920</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1916</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1912</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1904</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1844</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1836</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1828</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1824</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1820</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1816</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1812</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1804</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1752</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1744</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1736</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1728</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1724</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1720</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1716</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1712</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1708</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1648</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1644</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1640</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1636</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1632</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1628</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1624</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1620</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1616</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1612</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1604</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1552</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1548</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1532</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1528</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1524</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1520</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1516</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1512</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1504</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1425</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1436</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1420</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1416</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1408</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1352</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1343</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1344</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1336</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1332</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1328</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1326</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1324</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1316</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1312</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1308</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1304</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1252</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1250</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1248</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1238</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1224</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1222</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1216</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1210</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1206</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1108</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v2.1140</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v2.1134</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v2.1133</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v1.1110</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v1.1052</SPFlashTool_Ver>
+</SP_Flash_Tool>
+<SP_MDT_Tool>
+  <SPMDTool_Ver>SP_MDT_v5.1432.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v5.1340.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1916.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1904.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1844.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1836.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1832.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1828.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1824.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1820.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1812.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1804.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1752.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1748.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1744.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1732.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1728.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1724.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1716.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1712.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1708.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1652.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1648.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1644.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1636.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1632.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1624.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1620.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1616.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1604.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1552.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1548.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1544.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1540.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1532.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1516.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1528.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1520.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1512.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1504.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1452.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1444.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1436.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1428.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1424.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1420.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1408.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1332.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1304.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1228.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1108.00</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1032.00</SPMDTool_Ver>
+</SP_MDT_Tool>
+
+</MediaTeck_Tools>
+
+<SpreadTrumTools>
+
+<SPUpgrade_Tool>
+  <SPUpgrade_Ver>SPUpgrade_v2.9.3</SPUpgrade_Ver>
+  <SPUpgrade_Ver>SPUpgrade_v2.9.2</SPUpgrade_Ver>
+</SPUpgrade_Tool>
+<SPD_Dloader_Tool>
+  <SPDDloader_Ver>SPD_Dloader_v2.9.3</SPDDloader_Ver>
+  <SPDDloader_Ver>SPD_Dloader_v2.9.2</SPDDloader_Ver>
+</SPD_Dloader_Tool>
+<SPD_Factory_Tool>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R23.19.4001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R23.0.0001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R21.0.0001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R19.17.4301</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R3.0.0001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9015</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9009</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9008</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.7007</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.7006</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.7003</SPDFactoryTool_Ver>
+</SPD_Factory_Tool>
+<SPD_Research_Tool>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R23.19.5101</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R23.19.3301</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R23.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R22.19.1301</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R21.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R19.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R17.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R8.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R7.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R6.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R4.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R3.15.4901</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R3.0.900</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R3.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.10.1003</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.10.1001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9017</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9016</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9015</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9009</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9008</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9005</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.8005</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.8004</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7017</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7009</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7008</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7007</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7006</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7003</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7002</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.6011</SPDResearchTool_Ver>
+</SPD_Research_Tool>
+<SPD_Upgrade_Tool>
+<SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R23.19.4001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R23.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R22.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R21.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R20.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R19.18.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R19.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R17.17.1202</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R17.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R4.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R3.15.4901</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R3.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.10.1003</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9015</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9009</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9008</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9005</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7008</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7007</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7006</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7003</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.6004</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.5005</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool(Special ver)</SPDUpgradeTool_Ver>
+</SPD_Upgrade_Tool>
+
+</SpreadTrumTools>
+
+<Qualcomm_Tools>
+<LenovoDownloader_Tool>
+  <LenovoDownloader_Ver>Lenovo_Downloader_Ver_v1.0.2</LenovoDownloader_Ver>
+  <LenovoDownloader_Ver>Lenovo_Downloader_Ver_v1.0.1</LenovoDownloader_Ver>
+</LenovoDownloader_Tool>
+<QualFast_Tool>
+  <QualFast_Ver>QualFast_Tool_v1.0.2</QualFast_Ver>
+  <QualFast_Ver>QualFast_Tool_v1.0.1</QualFast_Ver>
+</QualFast_Tool>
+<QcomDloader>
+  <QcomDloader_Ver>QcomDloader_v1.3.2.0</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.3.0.2</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.0.6</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.0.3</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.0.2</QcomDloader_Ver>
+</QcomDloader>
+<QFlash_Tool>
+  <QFlash_Ver>QFlash_Tool_v9.1.6</QFlash_Ver>
+  <QFlash_Ver>QFlash_Tool_v6.1.3</QFlash_Ver>
+  <QFlash_Ver>QFlash_Tool_v5.0.2</QFlash_Ver>
+</QFlash_Tool>
+<QFIL_Tool>
+  <QFIL_Ver>QFIL_Tool_v2.0.2.3</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.9</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.8</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.7</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.1</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.5</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.4</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.3</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.2</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.0</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v1.0.0.3</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.2</QFIL_Ver>
+</QFIL_Tool>
+<QPST_Tool>
+  <QPST_Ver>QPST_Tool_v2.7.480</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.477</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.474</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.473</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.472</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.464</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.460</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.456</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.453</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.447</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.445</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.438</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.437</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.432</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.430</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.429</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.425</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.423</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.422</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.420</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.419</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.415</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.411</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.410</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.402</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.399</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.387</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.378</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.375</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.374</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.368</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.366</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.363</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.323</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.301</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.264</QPST_Ver>
+  <QPST_Ver>QPST_Tool_v2.7.104</QPST_Ver>
+</QPST_Tool>
+<MiFlash_Tool>
+  <MiFlashTool_Ver>MiFlash20191206</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20191111</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20191030</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20181115</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20180528</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20171212</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20170425</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20161222</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20160830</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20160401</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20151028</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20150731</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20150601</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20141107</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20140509</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20130420</MiFlashTool_Ver>
+</MiFlash_Tool>
+</Qualcomm_Tools>
+
+<APPLE_Devices>
+
+<Ipod>
+  <IpodDevice>iPod touch 1G</IpodDevice>
+  <IpodDevice>iPod touch 2G</IpodDevice>
+  <IpodDevice>iPod touch 3</IpodDevice>
+  <IpodDevice>iPod touch 4</IpodDevice>
+  <IpodDevice>iPod touch 5</IpodDevice>
+  <IpodDevice>iPod touch 6</IpodDevice>
+  <IpodModel>A1213</IpodModel>
+  <IpodModel>A1288</IpodModel>
+  <IpodModel>A1318</IpodModel>
+  <IpodModel>A1319</IpodModel>
+  <IpodModel>A1367</IpodModel>
+  <IpodModel>A1421</IpodModel>
+  <IpodModel>A1509</IpodModel>
+  <IpodModel>A1574</IpodModel>
+</Ipod>
+<Iphone>
+ <IphoneDevice>iPhone 2G</IphoneDevice>
+  <IphoneDevice>iPhone 3G</IphoneDevice>
+  <IphoneDevice>iPhone 3G[S]</IphoneDevice>
+  <IphoneDevice>iPhone 4 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 4 (GSM / 2012)</IphoneDevice>
+  <IphoneDevice>iPhone 4 (CDMA)</IphoneDevice>
+  <IphoneDevice>iPhone 4[S]</IphoneDevice>
+  <IphoneDevice>iPhone 5 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 5 (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 5c (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 5c (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 5s (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 5s (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 6</IphoneDevice>
+  <IphoneDevice>iPhone 6+</IphoneDevice>
+  <IphoneDevice>iPhone 6s</IphoneDevice>
+  <IphoneDevice>iPhone 6s+</IphoneDevice>
+  <IphoneDevice>iPhone SE</IphoneDevice>
+  <IphoneDevice>iPhone 7 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 7 (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 7 Plus (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 7 Plus (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 8 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 8 (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 8 Plus (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 8 Plus (Global)</IphoneDevice>
+  <IphoneDevice>iPhone X (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone X (Global)</IphoneDevice>
+  <IphoneDevice>iPhone XS</IphoneDevice>
+  <IphoneDevice>iPhone XS Max</IphoneDevice>
+  <IphoneDevice>iPhone XS Max (China)</IphoneDevice>
+  <IphoneDevice>iPhone XR</IphoneDevice>
+  <IphoneDevice>iPhone 11</IphoneDevice>
+  <IphoneDevice>iPhone 11 Pro</IphoneDevice>
+  <IphoneDevice>iPhone 11 Pro Max</IphoneDevice>
+  <IphoneModel>A1203</IphoneModel>
+  <IphoneModel>A1241</IphoneModel>
+  <IphoneModel>A1303</IphoneModel>
+  <IphoneModel>A1324</IphoneModel>
+  <IphoneModel>A1325</IphoneModel>
+  <IphoneModel>A1332</IphoneModel>
+  <IphoneModel>A1349</IphoneModel>
+  <IphoneModel>A1387</IphoneModel>
+  <IphoneModel>A1428</IphoneModel>
+  <IphoneModel>A1429</IphoneModel>
+  <IphoneModel>A1431</IphoneModel>
+  <IphoneModel>A1442</IphoneModel>
+  <IphoneModel>A1453</IphoneModel>
+  <IphoneModel>A1456</IphoneModel>
+  <IphoneModel>A1457</IphoneModel>
+  <IphoneModel>A1507</IphoneModel>
+  <IphoneModel>A1516</IphoneModel>
+  <IphoneModel>A1518</IphoneModel>
+  <IphoneModel>A1522</IphoneModel>
+  <IphoneModel>A1524</IphoneModel>
+  <IphoneModel>A1528</IphoneModel>
+  <IphoneModel>A1529</IphoneModel>
+  <IphoneModel>A1530</IphoneModel>
+  <IphoneModel>A1532</IphoneModel>
+  <IphoneModel>A1533</IphoneModel>
+  <IphoneModel>A1549</IphoneModel>
+  <IphoneModel>A1586</IphoneModel>
+  <IphoneModel>A1589</IphoneModel>
+  <IphoneModel>A1593</IphoneModel>
+  <IphoneModel>A1633</IphoneModel>
+  <IphoneModel>A1634</IphoneModel>
+  <IphoneModel>A1660</IphoneModel>
+  <IphoneModel>A1661</IphoneModel>
+  <IphoneModel>A1662</IphoneModel>
+  <IphoneModel>A1687</IphoneModel>
+  <IphoneModel>A1688</IphoneModel>
+  <IphoneModel>A1690</IphoneModel>
+  <IphoneModel>A1691</IphoneModel>
+  <IphoneModel>A1699</IphoneModel>
+  <IphoneModel>A1700</IphoneModel>
+  <IphoneModel>A1723</IphoneModel>
+  <IphoneModel>A1724</IphoneModel>
+  <IphoneModel>A1778</IphoneModel>
+  <IphoneModel>A1779</IphoneModel>
+  <IphoneModel>A1780</IphoneModel>
+  <IphoneModel>A1784</IphoneModel>
+  <IphoneModel>A1785</IphoneModel>
+  <IphoneModel>A1786</IphoneModel>
+  <IphoneModel>A1863</IphoneModel>
+  <IphoneModel>A1864</IphoneModel>
+  <IphoneModel>A1865</IphoneModel>
+  <IphoneModel>A1897</IphoneModel>
+  <IphoneModel>A1898</IphoneModel>
+  <IphoneModel>A1899</IphoneModel>
+  <IphoneModel>A1901</IphoneModel>
+  <IphoneModel>A1902</IphoneModel>
+  <IphoneModel>A1905</IphoneModel>
+  <IphoneModel>A1906</IphoneModel>
+  <IphoneModel>A1907</IphoneModel>
+  <IphoneModel>A1920</IphoneModel>
+  <IphoneModel>A1921</IphoneModel>
+  <IphoneModel>A1984</IphoneModel>
+  <IphoneModel>A2097</IphoneModel>
+  <IphoneModel>A2098</IphoneModel>
+  <IphoneModel>A2100</IphoneModel>
+  <IphoneModel>A2101</IphoneModel>
+  <IphoneModel>A2102</IphoneModel>
+  <IphoneModel>A2104</IphoneModel>
+  <IphoneModel>A2105</IphoneModel>
+  <IphoneModel>A2106</IphoneModel>
+  <IphoneModel>A2108</IphoneModel>
+  <IphoneModel>A2160</IphoneModel>
+  <IphoneModel>A2161</IphoneModel>
+  <IphoneModel>A2111</IphoneModel>
+  <IphoneModel>A2215</IphoneModel>
+  <IphoneModel>A2217</IphoneModel>
+  <IphoneModel>A2218</IphoneModel>
+  <IphoneModel>A2220</IphoneModel>
+  <IphoneModel>A2221</IphoneModel>
+  <IphoneModel>A2223</IphoneModel>
+</Iphone>
+<Ipad>
+  <IpadDevice>iPad 1</IpadDevice>
+  <IpadDevice>iPad 2 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 2 (GSM)</IpadDevice>
+  <IpadDevice>iPad 2 (CDMA)</IpadDevice>
+  <IpadDevice>iPad 2 (Mid 2012)</IpadDevice>
+  <IpadDevice>iPad 3 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 3 (GSM)</IpadDevice>
+  <IpadDevice>iPad 3 (CDMA)</IpadDevice>
+  <IpadDevice>iPad 4 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 4 (GSM)</IpadDevice>
+  <IpadDevice>iPad 4 (Global)</IpadDevice>
+  <IpadDevice>iPad 5 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 5 (Cellular)</IpadDevice>
+  <IpadDevice>iPad 6 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 6 (Cellular)</IpadDevice>
+  <IpadDevice>iPad 7 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 7 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Air (WiFi)</IpadDevice>
+  <IpadDevice>iPad Air (Cellular)</IpadDevice>
+  <IpadDevice>iPad Air (China)</IpadDevice>
+  <IpadDevice>iPad Air 2 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Air 2 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Air 3 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Air 3 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini (GSM)</IpadDevice>
+  <IpadDevice>iPad Mini (Global)</IpadDevice>
+  <IpadDevice>iPad Mini 2 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 2 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini 2 (China)</IpadDevice>
+  <IpadDevice>iPad Mini 3 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 3 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini 3 (China)</IpadDevice>
+  <IpadDevice>iPad Mini 4 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 4 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini 5 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 5 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 9.7-inch (WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 9.7-inch (Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro (10.5-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro (10.5-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 12.9-inch (WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 12.9-inch (Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 2 (12.9-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 2 (12.9-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, WiFi, 1TB Model)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, Cellular, 1TB Model)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, WiFi, 1TB Model)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, Cellular, 1TB Model)</IpadDevice>
+  <IpadModel>A1219</IpadModel>
+  <IpadModel>A1337</IpadModel>
+  <IpadModel>A1395</IpadModel>
+  <IpadModel>A1396</IpadModel>
+  <IpadModel>A1397</IpadModel>
+  <IpadModel>A1403</IpadModel>
+  <IpadModel>A1416</IpadModel>
+  <IpadModel>A1430</IpadModel>
+  <IpadModel>A1432</IpadModel>
+  <IpadModel>A1454</IpadModel>
+  <IpadModel>A1455</IpadModel>
+  <IpadModel>A1458</IpadModel>
+  <IpadModel>A1459</IpadModel>
+  <IpadModel>A1460</IpadModel>
+  <IpadModel>A1474</IpadModel>
+  <IpadModel>A1475</IpadModel>
+  <IpadModel>A1476</IpadModel>
+  <IpadModel>A1489</IpadModel>
+  <IpadModel>A1490</IpadModel>
+  <IpadModel>A1491</IpadModel>
+  <IpadModel>A1538</IpadModel>
+  <IpadModel>A1550</IpadModel>
+  <IpadModel>A1566</IpadModel>
+  <IpadModel>A1567</IpadModel>
+  <IpadModel>A1584</IpadModel>
+  <IpadModel>A1599</IpadModel>
+  <IpadModel>A1600</IpadModel>
+  <IpadModel>A1601</IpadModel>
+  <IpadModel>A1652</IpadModel>
+  <IpadModel>A1670</IpadModel>
+  <IpadModel>A1671</IpadModel>
+  <IpadModel>A1673</IpadModel>
+  <IpadModel>A1674</IpadModel>
+  <IpadModel>A1675</IpadModel>
+  <IpadModel>A1701</IpadModel>
+  <IpadModel>A1709</IpadModel>
+  <IpadModel>A1821</IpadModel>
+  <IpadModel>A1822</IpadModel>
+  <IpadModel>A1823</IpadModel>
+  <IpadModel>A1852</IpadModel>
+  <IpadModel>A1876</IpadModel>
+  <IpadModel>A1893</IpadModel>
+  <IpadModel>A1895</IpadModel>
+  <IpadModel>A1934</IpadModel>
+  <IpadModel>A1954</IpadModel>
+  <IpadModel>A1979</IpadModel>
+  <IpadModel>A1980</IpadModel>
+  <IpadModel>A1983</IpadModel>
+  <IpadModel>A2013</IpadModel>
+  <IpadModel>A2014</IpadModel>
+  <IpadModel>A2123</IpadModel>
+  <IpadModel>A2124</IpadModel>
+  <IpadModel>A2125</IpadModel>
+  <IpadModel>A2126</IpadModel>
+  <IpadModel>A2133</IpadModel>
+  <IpadModel>A2152</IpadModel>
+  <IpadModel>A2153</IpadModel>
+  <IpadModel>A2154</IpadModel>
+  <IpadModel>A2198</IpadModel>
+  <IpadModel>A2200</IpadModel>
+  <IpadModel>A2232</IpadModel>
+</Ipad>
+<AppleDataBase>
+  <AppleDevice Identifier="iPhone1,1" Name="iPhone 2G" Model="A1203" Storage="4GB,  8GB,  16GB" Color="Silver" Gsm="GSM" BoardConfig="M68AP" platform="S5L8900X" cpid="35072" bdid="0" />
+  <AppleDevice Identifier="iPhone1,2" Name="iPhone 3G" Model="A1324,  A1241" Storage="8GB,  16GB" Color="Black" Gsm="GSM" BoardConfig="N82AP" platform="S5L8900X" cpid="35072" bdid="4" />
+  <AppleDevice Identifier="iPhone2,1" Name="iPhone 3G[S]" Model="A1325,  A1303" Storage="8GB,  16GB,  32GB" Color="Black and White" Gsm="GSM" BoardConfig="N88AP" platform="S5L8920X" cpid="35104" bdid="0" />
+  <AppleDevice Identifier="iPhone3,1" Name="iPhone 4 (GSM)" Model="A1332" Storage="16GB,  32GB" Color="Black and White" Gsm="GSM" BoardConfig="N90AP" platform="S5L8930X" cpid="35120" bdid="0" />
+  <AppleDevice Identifier="iPhone3,2" Name="iPhone 4 (GSM / 2012)" Model="A1332" Storage="8GB" Color="Black and White" Gsm="GSM" BoardConfig="N90BAP" platform="S5L8930X" cpid="35120" bdid="4" />
+  <AppleDevice Identifier="iPhone3,3" Name="iPhone 4 (CDMA)" Model="A1349" Storage="16GB,  32GB" Color="Black and White" Gsm="CDMA" BoardConfig="N92AP" platform="S5L8930X" cpid="35120" bdid="6" />
+  <AppleDevice Identifier="iPhone4,1" Name="iPhone 4[S]" Model="A1431,  A1387" Storage="8GB,  16GB,  32GB,  64GB" Color="Black and White" Gsm="GLOBAL" BoardConfig="N94AP" platform="S5L8940X" cpid="35136" bdid="8" />
+  <AppleDevice Identifier="iPhone5,1" Name="iPhone 5 (GSM)" Model="A1428" Storage="16GB,  32GB,  64GB" Color="Black and White" Gsm="GSM" BoardConfig="N41AP" platform="S5L8950X" cpid="35152" bdid="0" />
+  <AppleDevice Identifier="iPhone5,2" Name="iPhone 5 (Global)" Model="A1429,  A1442" Storage="16GB,  32GB,  64GB" Color="Black and White" Gsm="GLOBAL" BoardConfig="N42AP" platform="S5L8950X" cpid="35152" bdid="2" />
+  <AppleDevice Identifier="iPhone5,3" Name="iPhone 5c (GSM)" Model="A1456,  A1532" Storage="8GB,  16GB,  32GB" Color="White, Blue, Pink, Green, Yellow" Gsm="GSM" BoardConfig="N48AP" platform="S5L8950X" cpid="35152" bdid="10" />
+  <AppleDevice Identifier="iPhone5,4" Name="iPhone 5c (Global)" Model="A1507,  A1516,  A1529" Storage="8GB,  16GB,  32GB" Color="White, Blue, Pink, Green, Yellow" Gsm="GLOBAL" BoardConfig="N49AP" platform="S5L8950X" cpid="35152" bdid="14" />
+  <AppleDevice Identifier="iPhone6,1" Name="iPhone 5s (GSM)" Model="A1453,  A1533" Storage="16GB,  32GB,  64GB" Color="Space Gray,  Silver, Gold" Gsm="GSM" BoardConfig="N51AP" platform="S5L8960X" cpid="35168" bdid="0" />
+  <AppleDevice Identifier="iPhone6,2" Name="iPhone 5s (Global)" Model="A1457,  A1518,  A1528, A1530" Storage="16GB,  32GB" Color="Black and White" Gsm="GLOBAL" BoardConfig="N53AP" platform="S5L8960X" cpid="35168" bdid="2" />
+  <AppleDevice Identifier="iPhone7,2" Name="iPhone 6" Model="A1549,  A1586,  A1589" Storage="16GB,  32GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold" Gsm="GLOBAL" BoardConfig="N61AP" platform="T7000" cpid="28672" bdid="6" />
+  <AppleDevice Identifier="iPhone7,1" Name="iPhone 6+" Model="A1522,  A1524,  A1593" Storage="16GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold" Gsm="GLOBAL" BoardConfig="N56AP" platform="T7000" cpid="28672" bdid="4" />
+  <AppleDevice Identifier="iPhone8,1" Name="iPhone 6s" Model="A1633,  A1688,  A1691,  A1700" Storage="16GB,  32GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold, Rose Gold" Gsm="GLOBAL" BoardConfig="N71AP" platform="S8000" cpid="32768" bdid="4" />
+  <AppleDevice Identifier="iPhone8,2" Name="iPhone 6s+" Model="A1634,  A1687, A1690,  A1699" Storage="16GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold, Rose Gold" Gsm="GLOBAL" BoardConfig="N66MAP" platform="S8003" cpid="32771" bdid="6" />
+  <AppleDevice Identifier="iPhone8,4" Name="iPhone SE" Model="A1723,  A1662,  A1724" Storage="16GB,  32GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold, Rose Gold" Gsm="GLOBAL" BoardConfig="N69AP" platform="S8003" cpid="32771" bdid="2" />
+  <AppleDevice Identifier="iPhone9,3" Name="iPhone 7 (GSM)" Model="A1778" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GSM" BoardConfig="D101AP" platform="T8010" cpid="32784" bdid="12" />
+  <AppleDevice Identifier="iPhone9,1" Name="iPhone 7 (Global)" Model="A1660,  A1780,  A1779" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D10AP" platform="T8010" cpid="32784" bdid="8" />
+  <AppleDevice Identifier="iPhone9,4" Name="iPhone 7 Plus (GSM)" Model="A1784" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GSM" BoardConfig="D111AP" platform="T8010" cpid="32784" bdid="14" />
+  <AppleDevice Identifier="iPhone9,2" Name="iPhone 7 Plus (Global)" Model="A1661,  A1786,  A1785" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D11AP" platform="T8010" cpid="32784" bdid="10" />
+  <AppleDevice Identifier="iPhone10,4" Name="iPhone 8 (GSM)" Model="A1905" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GSM" BoardConfig="D201AP" platform="T8015" cpid="32789" bdid="10" />
+  <AppleDevice Identifier="iPhone10,1" Name="iPhone 8 (Global)" Model="A1863,  A1907,  A1906" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D20AP" platform="T8015" cpid="32789" bdid="2" />
+  <AppleDevice Identifier="iPhone10,5" Name="iPhone 8 Plus (GSM)" Model="A1897" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GSM" BoardConfig="D211AP" platform="T8015" cpid="32789" bdid="12" />
+  <AppleDevice Identifier="iPhone10,2" Name="iPhone 8 Plus (Global)" Model="A1864,  A1899,  A1898" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D21AP" platform="T8015" cpid="32789" bdid="4" />
+  <AppleDevice Identifier="iPhone10,6" Name="iPhone X (GSM)" Model="A1901" Storage="64GB,  256GB" Color="Silver, Space Gray" Gsm="GSM" BoardConfig="D221AP" platform="NULL" cpid="32789" bdid="14" />
+  <AppleDevice Identifier="iPhone10,3" Name="iPhone X (Global)" Model="A1865,  A1902" Storage="64GB,  256GB" Color="Silver, Space Gray" Gsm="GLOBAL" BoardConfig="D22AP" platform="NULL" cpid="32789" bdid="6" />
+  <AppleDevice Identifier="iPhone11,2" Name="iPhone XS" Model="A1920,  A2097,  A2098,  A2100" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold" Gsm="GLOBAL" BoardConfig="D321AP" platform="NULL" cpid="32800" bdid="14" />
+  <AppleDevice Identifier="iPhone11,6" Name="iPhone XS Max" Model="A1921,  A2101,  A2102" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold" Gsm="GLOBAL" BoardConfig="D331PAP" platform="NULL" cpid="32800" bdid="26" />
+  <AppleDevice Identifier="iPhone11,4" Name="iPhone XS Max (China)" Model="A2104" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold" Gsm="GLOBAL" BoardConfig="D331AP" platform="NULL" cpid="32800" bdid="10" />
+  <AppleDevice Identifier="iPhone11,8" Name="iPhone XR" Model="A1984,  A2105,  A2106,  A2108" Storage="64GB,  128GB,  256GB" Color="Black, White, Blue, Yellow, Coral, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="N841AP" platform="NULL" cpid="32800" bdid="12" />
+  <AppleDevice Identifier="iPhone12,1" Name="iPhone 11" Model="A2111,  A2221,  A2223" Storage="64GB,  128GB,  256GB" Color="Purple, Green, Yellow, Black, White, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="N104AP" platform="T8030" cpid="32816" bdid="4" />
+  <AppleDevice Identifier="iPhone12,3" Name="iPhone 11 Pro" Model="A2160,  A2215,  A2217" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold, Midnight Green" Gsm="GLOBAL" BoardConfig="D421AP" platform="NULL" cpid="32816" bdid="6" />
+  <AppleDevice Identifier="iPhone12,5" Name="iPhone 11 Pro Max" Model="A2161,  A2218,  A2220" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold, Midnight Green" Gsm="GLOBAL" BoardConfig="D421AP" platform="T8030" cpid="32816" bdid="6" />
+  <AppleDevice Identifier="iPod1,1" Name="iPod touch 1G" Model="A1213" Storage="8GB,  16GB,  32GB" Color="Black" Gsm="WIFI" BoardConfig="N45AP" platform="S5L8900X" cpid="35072" bdid="2" />
+  <AppleDevice Identifier="iPod2,1" Name="iPod touch 2G" Model="A1288,  A1319" Storage="8GB,  16GB,  32GB" Color="Black" Gsm="WIFI" BoardConfig="N72AP" platform="S5L8720X" cpid="34592" bdid="0" />
+  <AppleDevice Identifier="iPod3,1" Name="iPod touch 3" Model="A1318" Storage="32GB,  64GB" Color="Black" Gsm="WIFI" BoardConfig="N18AP" platform="S5L8922X" cpid="35106" bdid="2" />
+  <AppleDevice Identifier="iPod4,1" Name="iPod touch 4" Model="A1367" Storage="8GB,  16GB,  32GB,  64GB" Color="White ,Black" Gsm="WIFI" BoardConfig="N81AP" platform="S5L8930X" cpid="35120" bdid="8" />
+  <AppleDevice Identifier="iPod5,1" Name="iPod touch 5" Model="A1421,  A1509" Storage="16GB,  32GB,  64GB" Color="Available in Five Colors" Gsm="WIFI" BoardConfig="N78AP" platform="S5L8942X" cpid="35138" bdid="0" />
+  <AppleDevice Identifier="iPod7,1" Name="iPod touch 6" Model="A1574" Storage="16GB,  32GB,  64GB,  128GB" Color="Available in Five Colors" Gsm="WIFI" BoardConfig="N102AP" platform="T7000" cpid="28672" bdid="16" />
+  <AppleDevice Identifier="iPad1,1" Name="iPad 1" Model="A1219 , A1337" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI + 3G" BoardConfig="K48AP" platform="S5L8930X" cpid="35120" bdid="2" />
+  <AppleDevice Identifier="iPad2,1" Name="iPad 2 (WiFi)" Model="A1395" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI" BoardConfig="K93AP" platform="S5L8940X" cpid="35136" bdid="4" />
+  <AppleDevice Identifier="iPad2,2" Name="iPad 2 (GSM)" Model="A1396" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="GSM" BoardConfig="K94AP" platform="S5L8940X" cpid="35136" bdid="6" />
+  <AppleDevice Identifier="iPad2,3" Name="iPad 2 (CDMA)" Model="A1397" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="CDMA" BoardConfig="K95AP" platform="S5L8940X" cpid="35136" bdid="2" />
+  <AppleDevice Identifier="iPad2,4" Name="iPad 2 (Mid 2012)" Model="A1395" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI" BoardConfig="K93AAP" platform="S5L8942X" cpid="35138" bdid="6" />
+  <AppleDevice Identifier="iPad3,1" Name="iPad 3 (WiFi)" Model="A1416" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI" BoardConfig="J1AP" platform="S5L8945X" cpid="35141" bdid="0" />
+  <AppleDevice Identifier="iPad3,3" Name="iPad 3 (GSM)" Model="A1430" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI + CELLULAR" BoardConfig="J2AAP" platform="S5L8945X" cpid="35141" bdid="4" />
+  <AppleDevice Identifier="iPad3,2" Name="iPad 3 (CDMA)" Model="A1403" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI + CELLULAR(CDMA-VZ)" BoardConfig="J2AP" platform="S5L8945X" cpid="35141" bdid="2" />
+  <AppleDevice Identifier="iPad3,4" Name="iPad 4 (WiFi)" Model="A1458" Storage="16GB,  32GB,  64GB,  128GB" Color="Black, White" Gsm="WI-FI" BoardConfig="P101AP" platform="S5L8955X" cpid="35157" bdid="0" />
+  <AppleDevice Identifier="iPad3,5" Name="iPad 4 (GSM)" Model="A1459" Storage="16GB,  32GB,  64GB,  128GB" Color="Black, White" Gsm="WI-FI + CELLULAR" BoardConfig="P102AP" platform="S5L8955X" cpid="35157" bdid="2" />
+  <AppleDevice Identifier="iPad3,6" Name="iPad 4 (Global)" Model="A1460" Storage="16GB,  32GB,  64GB,  128GB" Color="Black, White" Gsm="WI-FI + CELLULAR" BoardConfig="P103AP" platform="S5L8955X" cpid="35157" bdid="4" />
+  <AppleDevice Identifier="iPad6,11" Name="iPad 5 (WiFi)" Model="A1822" Storage="32GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J71SAP" platform="S8000" cpid="32768" bdid="16" />
+  <AppleDevice Identifier="ipad6,12" Name="iPad 5 (Cellular)" Model="A1823" Storage="32GB, 128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="NULL" platform="NULL" cpid="NULL" bdid="NULL" />
+  <AppleDevice Identifier="iPad7,5" Name="iPad 6 (WiFi)" Model="A1893" Storage="32GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J71BAP" platform="T8010" cpid="32784" bdid="24" />
+  <AppleDevice Identifier="iPad7,6" Name="iPad 6 (Cellular)" Model="A1954" Storage="32GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J72BAP" platform="T8010" cpid="32784" bdid="26" />
+  <AppleDevice Identifier="iPad7,11" Name="iPad 7 (WiFi)" Model="A2232" Storage="32GB,  128GB" Color="Silver, Gold, Space Gray" Gsm="WI-FI ONLY , W/O GPS " BoardConfig="J172AP" platform="T8010" cpid="32784" bdid="30" />
+  <AppleDevice Identifier="iPad7,12" Name="iPad 7 (Cellular)" Model="A2200,  A2198" Storage="32GB,  128GB" Color="Silver, Gold, Space Gray" Gsm="WI-FI + CELLULAR + GPS" BoardConfig="J171AP" platform="T8010" cpid="32784" bdid="28" />
+  <AppleDevice Identifier="iPad4,1" Name="iPad Air (WiFi)" Model="A1474" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J71AP" platform="S5L8960X" cpid="35168" bdid="16" />
+  <AppleDevice Identifier="iPad4,2" Name="iPad Air (Cellular)" Model="A1475" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J72AP" platform="S5L8960X" cpid="35168" bdid="18" />
+  <AppleDevice Identifier="iPad4,3" Name="iPad Air (China)" Model="A1476" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J73AP" platform="S5L8960X" cpid="35168" bdid="20" />
+  <AppleDevice Identifier="iPad5,3" Name="iPad Air 2 (WiFi)" Model="A1566" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J81AP" platform="T7001" cpid="28673" bdid="6" />
+  <AppleDevice Identifier="iPad5,4" Name="iPad Air 2 (Cellular)" Model="A1567" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J82AP" platform="T7001" cpid="28673" bdid="2" />
+  <AppleDevice Identifier="iPad11,3" Name="iPad Air 3 (WiFi)" Model="A2152" Storage="64GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J217AP" platform="NULL" cpid="32800" bdid="28" />
+  <AppleDevice Identifier="iPad11,4" Name="iPad Air 3 (Cellular)" Model="A2123,  A2153,  A2154" Storage="64GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J218AP" platform="NULL" cpid="32800" bdid="30" />
+  <AppleDevice Identifier="iPad2,5" Name="iPad Mini (WiFi)" Model="A1432" Storage="16GB,  32GB,  64GB" Color="Black, White, Silver" Gsm="WI-FI" BoardConfig="P105AP" platform="S5L8942X" cpid="35138" bdid="10" />
+  <AppleDevice Identifier="iPad2,6" Name="iPad Mini (GSM)" Model="A1454" Storage="16GB,  32GB,  64GB" Color="Black, White, Silver" Gsm="WI-FI + CELLULAR" BoardConfig="P106AP" platform="S5L8942X" cpid="35138" bdid="12" />
+  <AppleDevice Identifier="iPad2,7" Name="iPad Mini (Global)" Model="A1455" Storage="16GB,  32GB,  64GB" Color="Black, White, Silver" Gsm="WI-FI + CELLULAR" BoardConfig="P107AP" platform="S5L8942X" cpid="35138" bdid="14" />
+  <AppleDevice Identifier="iPad4,4" Name="iPad Mini 2 (WiFi)" Model="A1489" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J85AP" platform="S5L8960X" cpid="35168" bdid="10" />
+  <AppleDevice Identifier="iPad4,5" Name="iPad Mini 2 (Cellular)" Model="A1490" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J86AP" platform="S5L8960X" cpid="35168" bdid="12" />
+  <AppleDevice Identifier="iPad4,6" Name="iPad Mini 2 (China)" Model="A1491" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J87AP" platform="S5L8960X" cpid="35168" bdid="14" />
+  <AppleDevice Identifier="iPad4,7" Name="iPad Mini 3 (WiFi)" Model="A1599" Storage="16GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI" BoardConfig="J85MAP" platform="S5L8960X" cpid="35168" bdid="50" />
+  <AppleDevice Identifier="iPad4,8" Name="iPad Mini 3 (Cellular)" Model="A1600" Storage="16GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J86MAP" platform="S5L8960X" cpid="35168" bdid="52" />
+  <AppleDevice Identifier="iPad4,9" Name="iPad Mini 3 (China)" Model="A1601" Storage="16GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J87MAP" platform="S5L8960X" cpid="35168" bdid="54" />
+  <AppleDevice Identifier="iPad5,1" Name="iPad Mini 4 (WiFi)" Model="A1538" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI" BoardConfig="J96AP" platform="T7000" cpid="28672" bdid="8" />
+  <AppleDevice Identifier="iPad5,2" Name="iPad Mini 4 (Cellular)" Model="A1550" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J97AP" platform="T7000" cpid="28672" bdid="10" />
+  <AppleDevice Identifier="iPad11,1" Name="iPad Mini 5 (WiFi)" Model="A2133" Storage="64GB,  256GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI" BoardConfig="J210AP" platform="NULL" cpid="32800" bdid="20" />
+  <AppleDevice Identifier="iPad11,2" Name="iPad Mini 5 (Cellular)" Model="A2124,  A2125,  A2126" Storage="64GB,  256GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J211AP" platform="NULL" cpid="32800" bdid="22" />
+  <AppleDevice Identifier="iPad6,3" Name="iPad Pro 9.7-inch (WiFi)" Model="A1673" Storage="32GB,  128GB,  256GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J127AP" platform="S8001" cpid="32769" bdid="8" />
+  <AppleDevice Identifier="iPad6,4" Name="iPad Pro 9.7-inch (Cellular)" Model="A1674,  A1675" Storage="32GB,  128GB,  256GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J128AP" platform="S8001" cpid="32769" bdid="10" />
+  <AppleDevice Identifier="iPad7,3" Name="iPad Pro (10.5-inch, WiFi)" Model="A1701" Storage="64GB,  256GB,  512GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J207AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad7,4" Name="iPad Pro (10.5-inch, Cellular)" Model="A1709,  A1852" Storage="64GB,  256GB,  512GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J208AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad6,7" Name="iPad Pro 12.9-inch (WiFi)" Model="A1584" Storage="32GB,  128GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J98AAP" platform="S8001" cpid="32769" bdid="16" />
+  <AppleDevice Identifier="iPad6,8" Name="iPad Pro 12.9-inch (Cellular)" Model="A1652" Storage="128GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J99AAP" platform="S8001" cpid="32769" bdid="18" />
+  <AppleDevice Identifier="iPad7,1" Name="iPad Pro 2 (12.9-inch, WiFi)" Model="A1670" Storage="64GB,  256GB,  512GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J120AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad7,2" Name="iPad Pro 2 (12.9-inch, Cellular)" Model="A1671,  A1821" Storage="64GB,  256GB,  512GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J121AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad8,1" Name="iPad Pro 3 (11-inch, WiFi)" Model="A1980" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J317AP" platform="NULL" cpid="32807" bdid="12" />
+  <AppleDevice Identifier="iPad8,3" Name="iPad Pro 3 (11-inch, Cellular)" Model="A2013,  A1934,  A1979" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J320AP" platform="T8027" cpid="32807" bdid="8" />
+  <AppleDevice Identifier="iPad8,2" Name="iPad Pro 3 (11-inch, WiFi, 1TB Model)" Model="A1980" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J317XAP" platform="NULL" cpid="32807" bdid="28" />
+  <AppleDevice Identifier="iPad8,4" Name="iPad Pro 3 (11-inch, Cellular, 1TB Model)" Model="A2013,  A1934,  A1979" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J318XAP" platform="NULL" cpid="32807" bdid="30" />
+  <AppleDevice Identifier="iPad8,5" Name="iPad Pro 3 (12.9-inch, WiFi)" Model="A1876" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J320AP" platform="NULL" cpid="32807" bdid="8" />
+  <AppleDevice Identifier="iPad8,7" Name="iPad Pro 3 (12.9-inch, Cellular)" Model="A2014,  A1895,  A1983" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J321AP" platform="NULL" cpid="32807" bdid="10" />
+  <AppleDevice Identifier="iPad8,6" Name="iPad Pro 3 (12.9-inch, WiFi, 1TB Model)" Model="A1876" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J317XAP" platform="T8027" cpid="32807" bdid="28" />
+  <AppleDevice Identifier="iPad8,8" Name="iPad Pro 3 (12.9-inch, Cellular, 1TB Model)" Model="A2014,  A1895,  A1983" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J321XAP" platform="NULL" cpid="32807" bdid="26" />
+  <AppleDevice iModel="A1203" ModelIdentifier="iPhone1,1" />
+  <AppleDevice iModel="A1241" ModelIdentifier="iPhone1,2" />
+  <AppleDevice iModel="A1303" ModelIdentifier="iPhone2,1" />
+  <AppleDevice iModel="A1324" ModelIdentifier="iPhone1,2" />
+  <AppleDevice iModel="A1325" ModelIdentifier="iPhone2,1" />
+  <AppleDevice iModel="A1332" ModelIdentifier="iPhone3,1" />
+  <AppleDevice iModel="A1349" ModelIdentifier="iPhone3,3" />
+  <AppleDevice iModel="A1387" ModelIdentifier="iPhone4,1" />
+  <AppleDevice iModel="A1428" ModelIdentifier="iPhone5,1" />
+  <AppleDevice iModel="A1429" ModelIdentifier="iPhone5,2" />
+  <AppleDevice iModel="A1431" ModelIdentifier="iPhone4,1" />
+  <AppleDevice iModel="A1442" ModelIdentifier="iPhone5,2" />
+  <AppleDevice iModel="A1453" ModelIdentifier="iPhone6,1" />
+  <AppleDevice iModel="A1456" ModelIdentifier="iPhone5,3" />
+  <AppleDevice iModel="A1457" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1507" ModelIdentifier="iPhone5,4" />
+  <AppleDevice iModel="A1516" ModelIdentifier="iPhone5,4" />
+  <AppleDevice iModel="A1518" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1522" ModelIdentifier="iPhone7,1" />
+  <AppleDevice iModel="A1524" ModelIdentifier="iPhone7,1" />
+  <AppleDevice iModel="A1528" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1529" ModelIdentifier="iPhone5,4" />
+  <AppleDevice iModel="A1530" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1532" ModelIdentifier="iPhone5,3" />
+  <AppleDevice iModel="A1533" ModelIdentifier="iPhone6,1" />
+  <AppleDevice iModel="A1549" ModelIdentifier="iPhone7,2" />
+  <AppleDevice iModel="A1586" ModelIdentifier="iPhone7,2" />
+  <AppleDevice iModel="A1589" ModelIdentifier="iPhone7,2" />
+  <AppleDevice iModel="A1593" ModelIdentifier="iPhone7,1" />
+  <AppleDevice iModel="A1633" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1634" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1660" ModelIdentifier="iPhone9,1" />
+  <AppleDevice iModel="A1661" ModelIdentifier="iPhone9,2" />
+  <AppleDevice iModel="A1662" ModelIdentifier="iPhone8,4" />
+  <AppleDevice iModel="A1687" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1688" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1690" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1691" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1699" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1700" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1723" ModelIdentifier="iPhone8,4" />
+  <AppleDevice iModel="A1724" ModelIdentifier="iPhone8,4" />
+  <AppleDevice iModel="A1778" ModelIdentifier="iPhone9,3" />
+  <AppleDevice iModel="A1779" ModelIdentifier="iPhone9,1" />
+  <AppleDevice iModel="A1780" ModelIdentifier="iPhone9,1" />
+  <AppleDevice iModel="A1784" ModelIdentifier="iPhone9,4" />
+  <AppleDevice iModel="A1785" ModelIdentifier="iPhone9,2" />
+  <AppleDevice iModel="A1786" ModelIdentifier="iPhone9,2" />
+  <AppleDevice iModel="A1863" ModelIdentifier="iPhone10,1" />
+  <AppleDevice iModel="A1864" ModelIdentifier="iPhone10,2" />
+  <AppleDevice iModel="A1865" ModelIdentifier="iPhone10,3" />
+  <AppleDevice iModel="A1897" ModelIdentifier="iPhone10,5" />
+  <AppleDevice iModel="A1898" ModelIdentifier="iPhone10,2" />
+  <AppleDevice iModel="A1899" ModelIdentifier="iPhone10,2" />
+  <AppleDevice iModel="A1901" ModelIdentifier="iPhone10,6" />
+  <AppleDevice iModel="A1902" ModelIdentifier="iPhone10,3" />
+  <AppleDevice iModel="A1905" ModelIdentifier="iPhone10,4" />
+  <AppleDevice iModel="A1906" ModelIdentifier="iPhone10,1" />
+  <AppleDevice iModel="A1907" ModelIdentifier="iPhone10,1" />
+  <AppleDevice iModel="A1920" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A1921" ModelIdentifier="iPhone11,6" />
+  <AppleDevice iModel="A1984" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2097" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A2098" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A2100" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A2101" ModelIdentifier="iPhone11,6" />
+  <AppleDevice iModel="A2102" ModelIdentifier="iPhone11,6" />
+  <AppleDevice iModel="A2104" ModelIdentifier="iPhone11,4" />
+  <AppleDevice iModel="A2105" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2106" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2108" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2160" ModelIdentifier="iPhone12,3" />
+  <AppleDevice iModel="A2161" ModelIdentifier="iPhone12,5" />
+  <AppleDevice iModel="A2111" ModelIdentifier="iPhone12,1" />
+  <AppleDevice iModel="A2215" ModelIdentifier="iPhone12,3" />
+  <AppleDevice iModel="A2217" ModelIdentifier="iPhone12,3" />
+  <AppleDevice iModel="A2218" ModelIdentifier="iPhone12,5" />
+  <AppleDevice iModel="A2220" ModelIdentifier="iPhone12,5" />
+  <AppleDevice iModel="A2221" ModelIdentifier="iPhone12,1" />
+  <AppleDevice iModel="A2223" ModelIdentifier="iPhone12,1" />
+  <AppleDevice iModel="A1213" ModelIdentifier="iPod1,1" />
+  <AppleDevice iModel="A1288" ModelIdentifier="iPod2,1" />
+  <AppleDevice iModel="A1318" ModelIdentifier="iPod3,1" />
+  <AppleDevice iModel="A1319" ModelIdentifier="iPod2,1" />
+  <AppleDevice iModel="A1367" ModelIdentifier="iPod4,1" />
+  <AppleDevice iModel="A1421" ModelIdentifier="iPod5,1" />
+  <AppleDevice iModel="A1509" ModelIdentifier="iPod5,1" />
+  <AppleDevice iModel="A1574" ModelIdentifier="iPod7,1" />
+  <AppleDevice iModel="A1219" ModelIdentifier="iPad1,1" />
+  <AppleDevice iModel="A1337" ModelIdentifier="iPad1,1" />
+  <AppleDevice iModel="A1395" ModelIdentifier="iPad2,1" />
+  <AppleDevice iModel="A1395" ModelIdentifier="iPad2,4" />
+  <AppleDevice iModel="A1396" ModelIdentifier="iPad2,2" />
+  <AppleDevice iModel="A1397" ModelIdentifier="iPad2,3" />
+  <AppleDevice iModel="A1403" ModelIdentifier="iPad3,2" />
+  <AppleDevice iModel="A1416" ModelIdentifier="iPad3,1" />
+  <AppleDevice iModel="A1430" ModelIdentifier="iPad3,3" />
+  <AppleDevice iModel="A1432" ModelIdentifier="iPad2,5" />
+  <AppleDevice iModel="A1454" ModelIdentifier="iPad2,6" />
+  <AppleDevice iModel="A1455" ModelIdentifier="iPad2,7" />
+  <AppleDevice iModel="A1458" ModelIdentifier="iPad3,4" />
+  <AppleDevice iModel="A1459" ModelIdentifier="iPad3,5" />
+  <AppleDevice iModel="A1460" ModelIdentifier="iPad3,6" />
+  <AppleDevice iModel="A1474" ModelIdentifier="iPad4,1" />
+  <AppleDevice iModel="A1475" ModelIdentifier="iPad4,2" />
+  <AppleDevice iModel="A1476" ModelIdentifier="iPad4,3" />
+  <AppleDevice iModel="A1489" ModelIdentifier="iPad4,4" />
+  <AppleDevice iModel="A1490" ModelIdentifier="iPad4,5" />
+  <AppleDevice iModel="A1491" ModelIdentifier="iPad4,6" />
+  <AppleDevice iModel="A1538" ModelIdentifier="iPad5,1" />
+  <AppleDevice iModel="A1550" ModelIdentifier="iPad5,2" />
+  <AppleDevice iModel="A1566" ModelIdentifier="iPad5,3" />
+  <AppleDevice iModel="A1567" ModelIdentifier="iPad5,4" />
+  <AppleDevice iModel="A1584" ModelIdentifier="iPad6,7" />
+  <AppleDevice iModel="A1599" ModelIdentifier="iPad4,7" />
+  <AppleDevice iModel="A1600" ModelIdentifier="iPad4,8" />
+  <AppleDevice iModel="A1601" ModelIdentifier="iPad4,9" />
+  <AppleDevice iModel="A1652" ModelIdentifier="iPad6,8" />
+  <AppleDevice iModel="A1670" ModelIdentifier="iPad7,1" />
+  <AppleDevice iModel="A1671" ModelIdentifier="iPad7,2" />
+  <AppleDevice iModel="A1673" ModelIdentifier="iPad6,3" />
+  <AppleDevice iModel="A1674" ModelIdentifier="iPad6,4" />
+  <AppleDevice iModel="A1675" ModelIdentifier="iPad6,4" />
+  <AppleDevice iModel="A1701" ModelIdentifier="iPad7,3" />
+  <AppleDevice iModel="A1709" ModelIdentifier="iPad7,4" />
+  <AppleDevice iModel="A1821" ModelIdentifier="iPad7,2" />
+  <AppleDevice iModel="A1822" ModelIdentifier="iPad6,11" />
+  <AppleDevice iModel="A1823" ModelIdentifier="ipad6,12" />
+  <AppleDevice iModel="A1852" ModelIdentifier="iPad7,4" />
+  <AppleDevice iModel="A1876" ModelIdentifier="iPad8,5" />
+  <AppleDevice iModel="A1876" ModelIdentifier="iPad8,6" />
+  <AppleDevice iModel="A1893" ModelIdentifier="iPad7,5" />
+  <AppleDevice iModel="A1895" ModelIdentifier="iPad8,7" />
+  <AppleDevice iModel="A1895" ModelIdentifier="iPad8,8" />
+  <AppleDevice iModel="A1934" ModelIdentifier="iPad8,3" />
+  <AppleDevice iModel="A1934" ModelIdentifier="iPad8,4" />
+  <AppleDevice iModel="A1954" ModelIdentifier="iPad7,6" />
+  <AppleDevice iModel="A1979" ModelIdentifier="iPad8,3" />
+  <AppleDevice iModel="A1979" ModelIdentifier="iPad8,4" />
+  <AppleDevice iModel="A1980" ModelIdentifier="iPad8,1" />
+  <AppleDevice iModel="A1983" ModelIdentifier="iPad8,7" />
+  <AppleDevice iModel="A1983" ModelIdentifier="iPad8,8" />
+  <AppleDevice iModel="A2013" ModelIdentifier="iPad8,3" />
+  <AppleDevice iModel="A2014" ModelIdentifier="iPad8,7" />
+  <AppleDevice iModel="A2123" ModelIdentifier="iPad11,4" />
+  <AppleDevice iModel="A2124" ModelIdentifier="iPad11,2" />
+  <AppleDevice iModel="A2125" ModelIdentifier="iPad11,2" />
+  <AppleDevice iModel="A2126" ModelIdentifier="iPad11,2" />
+  <AppleDevice iModel="A2133" ModelIdentifier="iPad11,1" />
+  <AppleDevice iModel="A2152" ModelIdentifier="iPad11,3" />
+  <AppleDevice iModel="A2153" ModelIdentifier="iPad11,4" />
+  <AppleDevice iModel="A2154" ModelIdentifier="iPad11,4" />
+  <AppleDevice iModel="A2198" ModelIdentifier="iPad7,12" />
+  <AppleDevice iModel="A2200" ModelIdentifier="iPad7,12" />
+  <AppleDevice iModel="A2232" ModelIdentifier="iPad7,11" />
+</AppleDataBase>
+
+</APPLE_Devices>
+
+</Tools>
+
+
+ 
